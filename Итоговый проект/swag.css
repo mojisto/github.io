@@ -1,0 +1,246 @@
+body {
+	margin: 0;
+	font-family: 'Playfair Display', arial;
+	color: #262626;
+	background-color: #fff;
+}
+
+a {
+	text-decoration: none;
+	color: #262626;
+}
+
+.nav-item a:hover {
+	text-decoration: underline;
+}
+
+.dh {
+	position: sticky;
+    top: 0;
+}
+
+.pd {
+    margin: 0 0 30px 0;
+	text-indent: 30px;
+}
+	
+.navbar-brand {
+	font-family: 'Teko', sans-serif;
+	font-size: 50px;
+}
+
+.nav-link, .dropdown-item {
+	font-family: 'Playfair Display', arial;
+}
+
+.nav-link {
+	margin-left: 40px;
+	font-size: 20px;
+}
+
+.carousel-item {
+	height: 775px;
+}
+
+.car1 {
+	margin-bottom: 315px;
+	font-size: 60px;
+}
+
+.car2 {
+	margin-bottom: 290px;
+}
+
+.zg {
+	margin: 0 0 0 30px;
+}
+
+.fl {
+	font-size: 18px;
+	text-align: left;
+	margin: 80px 80px;
+	font-family: 'Playfair Display', arial;
+}
+
+.vd {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 80px 140px;
+	padding: 50px;
+	border: 5px solid #262626;
+	box-shadow: 40px 40px 40px rgba( 38, 38, 38, 0.16);
+}
+
+.fc {
+	background-image: url(fon3.png);
+	background-size: cover;
+	padding: 230px 250px;
+}
+
+.fact {
+	background-color: #fff;
+	font-family: 'Playfair Display', arial;
+	padding: 20px;
+	border: 5px solid #262626;
+	box-shadow: 40px 40px 40px rgba( 38, 38, 38, 0.16);
+	height: 320px;
+}
+	
+.z {
+	text-align: center;
+	font-size: 30px;
+}
+
+.button {
+  width: 100px;
+  height: 40px;
+  padding-top: 10px;
+  border: 1px solid #262626;
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  float: right;
+  margin: 50px 20px 0 0;
+}
+
+.sn {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 400;
+}
+
+.phrase {
+	font-size: 20px;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.comp {
+	font-family: 'Playfair Display', arial;
+	font-size: 50px;
+	font-style: normal;
+	line-height: 75px;
+	text-align: center;
+	margin: 120px 0 60px;
+	color: #262626;
+}
+
+.sps {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+	
+.card1 {
+	padding-top: 24px;
+	padding-bottom: 91px;
+	padding-left: 91px;
+	padding-right: 91px;
+}
+
+.t { 
+	font-family: 'Playfair Display', arial;
+	font-size: 24px;
+	margin: 0.1vw 0px;
+	line-height: 28px;
+	text-align: center;
+	color: #262626;
+}
+
+.h {
+	font-family: 'Playfair Display', arial;
+	font-size: 18px;
+	margin: 5px 0px;
+	font-style: italic;
+	line-height: 21px;
+	text-align: center;
+	color: #757575;
+}
+
+footer {
+	margin-top: 60px;
+}
+
+.foot {
+	text-align: center;
+	padding: 20px 0 20px;
+	font-family: 'Playfair Display', arial;
+	font-size: 18px;
+}
+	
+.tf {
+	font-size: 14px;
+	margin: 10px 0 0 0;
+}
+
+.line1 {
+	height: 1px;
+	background-color: #262626;
+}
+
+.line2 {
+	height: 1px;
+	background-color: #262626;
+	width: 468px;
+	margin: 5px 0 0 350px;
+}
+	
+.line3 {
+	height: 20px;
+}
+
+.line4 {
+	height: 1px;
+	background-color: #262626;
+	width: 458px;
+	float: center;
+	margin: 15px 80px 15px;
+}
+
+.jumbotron1 {
+	background-image: url(fon4.png);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	padding: 340px 0;
+}
+
+.jumbotron2 {
+	background-image: url(fon5.png);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: middle;
+	padding: 340px 0;
+}
+
+.jumbotron3 {
+	background-image: url(fon6.png);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: middle;
+	padding: 340px 0;
+}
+
+.jumbotron4 {
+	background-image: url(fon7.png);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: middle;
+	padding: 340px 0;
+}
+
+.hd {
+	font-family: 'Playfair Display', arial;
+	font-size: 88px;
+	color: #fff;
+}
+
+.ab {
+	margin: 40px 0 20px;
+	text-indent: 30px;
+}
